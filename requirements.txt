@@ -1,0 +1,14 @@
+typing==3.7.4.1
+torch==1.5.1
+torchvision==0.6.1
+seaborn==0.10.0
+scipy==1.4.1
+requests==2.23.0
+Pillow==5.4.1
+pandas==1.0.3
+numpy==1.18.5
+matplotlib==3.2.1
+fastprogress==0.2.3
+fastai==1.0.61
+opencv-python==4.2.0.32
+split-folders==0.5.1
